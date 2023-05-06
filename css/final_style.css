@@ -19,6 +19,10 @@ body {
         border: 4px solid rgb(126, 108, 173); 
       }
 
+a {
+    color: cornsilk;
+}
+
 pre {
     display: block;
 	font-family: Verona-Serial-Light;
@@ -35,7 +39,7 @@ h1 {
      font: bold 2em Verona-Serial;
      letter-spacing: 0em;
      white-space: pre; 
-     line-height: 0.85;
+     line-height: 0.82;
      font-size: 700%;
     }
 
@@ -46,23 +50,40 @@ h1 {
         font-size: 300%;
        }
     
+    
 h3 { 
     font: normal 1.4em Verona-Serial;
     letter-spacing: 0em; 
     text-align:center;
+    line-height: .8;
     white-space: pre-wrap;
     margin-bottom: 1em;
     font-size: 150%;
     }
 
 h4 { 
-        font: normal 1.4em Helvetica;
+        font: normal 1.4em Verona-Serial-Light;
         letter-spacing: 0em; 
         text-align:left;
         white-space: pre-wrap;
         margin-bottom: 1em;
         font-size: 100%;
         }
+h5 { 
+            font: normal 2em Verona-Serial;
+            letter-spacing: 0em;
+            white-space: pre-wrap; 
+            font-size: 150%;
+           }
+
+.big1 {
+    font-size: 24px;
+    color: rgb(255, 179, 179);
+}
+.big2 {
+    font-size: 24px;
+    color: rgb(181, 204, 255);
+}
 
 .title-box {
     background-color: #3e678f;
