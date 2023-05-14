@@ -50,9 +50,17 @@ h1 {
         font-size: 300%;
        }
 
-       h6 { 
-        font: normal 2em Verona-Serial;
+    h6 { 
+        font: normal 2em Verona-Serial-Light;
         letter-spacing: 0em;
+        white-space: pre-wrap; 
+        font-size: 230%;
+       }
+    
+    h7 { 
+        font: bolder 2em Verona-Serial;
+        letter-spacing: 0em;
+        text-align:center;
         white-space: pre-wrap; 
         font-size: 250%;
        }
@@ -82,6 +90,7 @@ h5 {
             white-space: pre-wrap; 
             font-size: 150%;
            }
+
 
 
 .big1 {
