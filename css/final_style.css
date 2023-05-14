@@ -49,6 +49,13 @@ h1 {
         white-space: pre-wrap; 
         font-size: 300%;
        }
+
+       h6 { 
+        font: normal 2em Verona-Serial;
+        letter-spacing: 0em;
+        white-space: pre-wrap; 
+        font-size: 250%;
+       }
     
     
 h3 { 
@@ -75,6 +82,7 @@ h5 {
             white-space: pre-wrap; 
             font-size: 150%;
            }
+
 
 .big1 {
     font-size: 24px;
