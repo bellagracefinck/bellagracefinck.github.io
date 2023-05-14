@@ -1,7 +1,7 @@
 /* basic elements */
 html {
-	margin: 25;
-	padding: 25;
+	margin: 10;
+	padding: 15;
 	height: 100%;
 	}
 
@@ -10,9 +10,12 @@ body {
 	line-height: 1.2em;
 	color: #000000; 
 	height:100%;
-    margin: 15%;
+    margin: 10%;
+    align-items: center;
     margin-right: 10%;
-	background-color:rgb(255, 228, 169);
+    background-image: url('/Users/bellagracefinck/Desktop/GitHub/bellagracefinck.github.io/big.png');
+    background-repeat: repeat-y;
+    background-size: cover;
     }
 
     img {
@@ -28,6 +31,7 @@ pre {
 	font-family: Verona-Serial-Light;
 	white-space: pre-wrap;
     font-size: 22px;
+    line-height: normal;
 	margin: 1em 0;
     }
 p { 
