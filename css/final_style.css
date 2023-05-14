@@ -86,11 +86,11 @@ h5 {
 
 .big1 {
     font-size: 24px;
-    color: rgb(255, 179, 179);
+    color: rgb(245, 192, 148);
 }
 .big2 {
     font-size: 24px;
-    color: rgb(181, 204, 255);
+    color: rgb(34, 82, 185);
 }
 
 .title-box {
@@ -103,7 +103,7 @@ h5 {
     }
     
     .subtitle-box {
-        background-color: #5d8b67;
+        background-color: #84a18a;
         color: #fff;
         padding: 0px 10px; 
         border-radius: 5px;
