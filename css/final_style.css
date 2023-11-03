@@ -8,7 +8,7 @@ html {
 	}
 
 body { 
-	font: 100% Verona-Serial, sans-serif;
+	font: 100% Arial, sans-serif;
 	line-height: 1.2em;
 	color: #000000; 
 	height:100%;
@@ -50,7 +50,7 @@ header li {
     }  
 header li a {  
     color: rgb(158, 46, 115);  
-    font: 100% Verona-Serial-Light, sans-serif;
+    font: 100% Arial, Helvetica, sans-serif;
     font-weight: lighter;
     text-align: center;
     font-size: 24px; 
@@ -58,7 +58,7 @@ header li a {
 }
 a {
     color: rgb(255, 246, 198);
-    font: 100% Verona-Serial-Light, sans-serif;
+    font: 100% Arial, Helvetica, sans-serif;
     font-weight: lighter;
     text-align: right;
     font-size: 14px;
@@ -66,7 +66,7 @@ a {
 
 pre {
     display: block;
-	font-family: Verona-Serial-Light;
+	font-family: Arial, Helvetica, sans-serif;
 	white-space: pre-wrap;
     font-size: 22px;
     line-height: normal;
@@ -79,7 +79,7 @@ p {
     }
         
 h1 { 
-     font: bold 2em Verona-Serial;
+     font: bold 2em Arial, Helvetica, sans-serif;
      letter-spacing: 0em;
      white-space: pre; 
      line-height: 0.82;
@@ -87,21 +87,21 @@ h1 {
     }
 
     h2 { 
-        font: normal 2em Verona-Serial;
+        font: normal 2em Arial, Helvetica, sans-serif;
         letter-spacing: 0em;
         white-space: pre-wrap; 
         font-size: 300%;
        }
 
     h6 { 
-        font: normal 2em Verona-Serial-Light;
+        font: normal 2em Arial, Helvetica, sans-serif;
         letter-spacing: 0em;
         white-space: pre-wrap; 
         font-size: 230%;
        }
     
     h7 { 
-        font: bolder 2em Verona-Serial;
+        font: bolder 2em Arial, Helvetica, sans-serif;
         letter-spacing: 0em;
         text-align:center;
         white-space: pre-wrap; 
@@ -110,7 +110,7 @@ h1 {
     
     
 h3 { 
-    font: normal 1.4em Verona-Serial;
+    font: normal 1.4em Arial, Helvetica, sans-serif;
     letter-spacing: 0em; 
     text-align:center;
     line-height: .8;
@@ -120,7 +120,7 @@ h3 {
     }
 
 h4 { 
-        font: normal 1.4em Verona-Serial-Light;
+        font: normal 1.4em Arial, Helvetica, sans-serif;
         letter-spacing: 0em; 
         text-align:left;
         white-space: pre-wrap;
@@ -128,14 +128,14 @@ h4 {
         font-size: 100%;
         }
 h5 { 
-            font: normal 2em Verona-Serial;
+            font: normal 2em Arial, Helvetica, sans-serif;
             letter-spacing: 0em;
             white-space: pre-wrap; 
             font-size: 150%;
            }
 
 quote {
-    font: normal 2em Verona-Serial;
+    font: normal 2em Arial, Helvetica, sans-serif;
     letter-spacing: 0em;
     white-space: pre-wrap; 
     font-size: 100%;
@@ -159,13 +159,13 @@ quote {
 }
 
 .name {
-    font: normal 2em Verona-Serial;
+    font: normal 2em Arial, Helvetica, sans-serif;
     font-size: 26px;
     color:rgb(82, 90, 9)
 }
 
 .description {
-    font: normal 2em Verona-Serial;
+    font: normal 2em Arial, Helvetica, sans-serif;
     font-size: 22px;
     color:olive 
 }
@@ -197,12 +197,12 @@ quote {
     }
 
 .subtitle {
-    font: normal 1.4em Verona-Serial;
+    font: normal 1.4em Arial, Helvetica, sans-serif;
     font-size: 18px;
     margin-top:auto; }
 
     .subtitle2 {
-        font: normal 1.4em Verona-Serial;
+        font: normal 1.4em Arial, Helvetica, sans-serif;
         font-size: 18px;
         text-align: center;
         margin-top:auto; }
